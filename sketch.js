@@ -1,4 +1,4 @@
-var ball;
+var ball,ball1;
 
 function setup(){
     createCanvas(500,500);
